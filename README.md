@@ -1,6 +1,5 @@
 # COMP3111 Lab 1
 - The author is **Nattgarni Aphimookkul**
-- 
 
 ## Screenshot 1: Project tool window
 ![img.png](images/img.png)
